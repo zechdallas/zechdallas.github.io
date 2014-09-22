@@ -16,6 +16,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .avatar {
 	width: 64px;
+	height: 64px;
 }
 
 .thumbnail {
@@ -41,6 +42,10 @@ p.meta {
 
 .post-content p {
 	font-size: 20px;
+}
+
+article .img {
+	width:100%;
 }
 
 .justify {
