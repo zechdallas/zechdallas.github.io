@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're Adopting!
+title: We Are Adopting!
 author: Zechariah Dallas
 avatar: zech.png
 date: 2014-07-01
