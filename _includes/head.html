@@ -1,0 +1,26 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Custom CSS -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,200,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="wbabcock.github.io/dallasfamily/assets/css/normalize.css">
+    <link rel="stylesheet" href="wbabcock.github.io/dallasfamily/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="wbabcock.github.io/dallasfamily/assets/css/fonts.css">
+    <link rel="stylesheet" href="wbabcock.github.io/dallasfamily/assets/css/style.css">
+    <!--
+    <link rel="stylesheet" href="{{ "/dallasfamily/assets/css/normalize.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/dallasfamily/assets/css/bootstrap.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/dallasfamily/assets/css/fonts.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/dallasfamily/assets/css/style.css" | prepend: site.baseurl }}">
+    -->
+
+    <!-- Javascript -->
+    <script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/js/moment.min.js" | prepend: site.baseurl }}"></script>
+</head>

@@ -1,0 +1,16 @@
+# Site settings
+title: 				Hosea 143
+email: 				webadmin@chameshlabs.com
+description: 		""
+baseurl: 			"http://wwww.hosea143.com"
+url: 				"http://www.hosea143.com"
+
+# Permalinks
+permalink:			:categories/:title
+
+# Pagination
+paginate:         	5
+
+# Build settings
+markdown: 			kramdown
+permalink: 			pretty

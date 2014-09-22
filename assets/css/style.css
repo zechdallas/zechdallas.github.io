@@ -1,0 +1,98 @@
+html, body {
+	height:100%;
+}
+
+body {
+	background: #;
+	color: #777;
+	font-family: 'Open Sans', Helvetica, Sans-serif;
+	font-weight: 200;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin-top: 0px;
+	font-weight: 200;
+}
+
+.avatar {
+	width: 64px;
+}
+
+.thumbnail {
+	background-color: #272727;
+	border-color: #222;
+	box-shadow: 1px 1px 8px #000;
+}
+
+.thumbnail .caption {
+	color: #bbb;
+}
+
+p {
+	margin-top: 2em;
+	margin-bottom: 2em;
+  	line-height: 1.6em;
+  	font-size: 16px;
+}
+
+p.meta {
+	margin:0;
+}
+
+.post-content p {
+	font-size: 20px;
+}
+
+.justify {
+	text-align: justify;
+}
+
+h4 {
+	margin-top: 0;
+}
+
+.splash {
+	margin-bottom: 20px;
+	height: 40em;
+	padding-top: 15em;
+	background-image: url("../imgs/dallas1.jpg");
+	/* background-position:center; */
+	background-size: cover;
+	color: #dce7fa;
+	text-align: center;
+	text-shadow: 0px 0px 15px #000;
+}
+
+.navbar-default {
+	position: absolute;
+  	background-color: transparent;
+  	border: 0;
+}
+
+.navbar-nav {
+	margin-top: 10px;
+}
+
+.navbar-default .navbar-brand img {
+	vertical-align: middle;
+  	font-size: 20px;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+	color: #777;
+  	font-weight: 400;
+  	text-shadow: 1px 1px 4px #ccc;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover {
+	color: #428bca;
+ 	background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: #428bca;
+ 	background-color: transparent;
+ 	border-bottom: 2px solid #428bca;
+}
