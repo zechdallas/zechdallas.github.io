@@ -3,7 +3,7 @@ layout: post
 title: HUGE Announcement!
 author: Liz Dallas
 avatar: liz.jpg
-date: 2014-10-23
+date: 2014-09-23
 tags: []
 ---
 HUGE ANNOUNCEMENT: We are so excited to say that we are officially MATCHED, and expecting a 
