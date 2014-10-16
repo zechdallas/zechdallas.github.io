@@ -1,8 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 200 96" enable-background="new 0 0 200 96" xml:space="preserve">
-<text transform="matrix(1 0 0 1 5.2734 32.376)" fill="#4D4D4D" font-family="'SourceSansPro-ExtraLight'" font-size="36.5689">Dallas</text>
-<text transform="matrix(1 0 0 1 98.5088 32.3765)" fill="#7B8DAB" font-family="'SourceSansPro-ExtraLight'" font-size="36.5689">Family</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="380.33725"
+     inkscape:cy="948.87647"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3800"
+       inkscape:export-filename="C:\Users\wbabcock.SOFIXNT\Desktop\Hosea143.png"
+       inkscape:export-xdpi="2672.8501"
+       inkscape:export-ydpi="2672.8501">
+      <text
+         transform="scale(0.8770488,1.1401874)"
+         sodipodi:linespacing="125%"
+         id="text3776"
+         y="123.13525"
+         x="115.05875"
+         style="font-size:125.15904999px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#8ebacb;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+           y="123.13525"
+           x="115.05875"
+           id="tspan3778"
+           sodipodi:role="line">Hosea</tspan></text>
+      <path
+         sodipodi:nodetypes="csscccccsccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3756"
+         d="m 186.43143,51.009164 c 0.16112,-1.043813 0.94844,-4.672663 1.6236,-5.468986 1.29535,-1.527808 0.8826,-0.737595 2.58127,-0.950552 1.78981,-0.224378 5.35945,1.325136 5.36554,3.165761 4.36073,8.768156 11.0616,17.055927 19.93563,21.956428 5.87869,2.972865 13.18144,1.22978 17.83897,-3.187362 6.06353,-4.943783 9.65153,-12.026322 13.91598,-18.394399 1.08101,-1.455244 6.48039,-5.142428 6.61098,-3.9949 0.55802,-0.566251 2.90124,-0.07541 4.52773,1.481038 0.8582,0.82125 3.24805,1.939162 1.29891,3.354992 -7.76681,11.567303 -20.85416,28.468837 -21.30314,42.488657 -0.088,10.776599 -3.29146,30.724229 -17.0131,38.281249 -7.72361,4.66417 -12.28675,5.08378 -15.4759,-2.74847 -2.84921,-8.15921 -2.12967,-16.70906 -0.4743,-23.14757 1.20941,-4.439175 1.07752,-4.125245 2.0633,-7.242858 1.91489,-6.097757 1.89541,-4.261308 2.80032,-10.641047 -1.40649,-4.492927 -13.91902,-16.334379 -15.89504,-20.591665 -3.55237,-6.852253 -5.02423,-7.419591 -8.40075,-14.360316 z"
+         style="fill:#538da5;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.04369327,0.02678498,-0.03732295,0.05866972,223.5875,21.35825)"
+         d="m 593.96971,335.15387 a 219.20311,236.3757 0 1 1 -438.40622,0 219.20311,236.3757 0 1 1 438.40622,0 z"
+         sodipodi:ry="236.3757"
+         sodipodi:rx="219.20311"
+         sodipodi:cy="335.15387"
+         sodipodi:cx="374.7666"
+         id="path3762"
+         style="fill:#538da5;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(0.826966,1.2092396)"
+         sodipodi:linespacing="125%"
+         id="text3784"
+         y="118.04155"
+         x="513.50604"
+         style="font-size:95.12194824px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c59696;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c59696;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           y="118.04155"
+           x="513.50604"
+           id="tspan3786"
+           sodipodi:role="line">14:3</tspan></text>
+    </g>
+  </g>
 </svg>
