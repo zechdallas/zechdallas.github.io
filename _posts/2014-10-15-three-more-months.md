@@ -41,8 +41,7 @@ they feel like a hug when you put them on… I truly believe them!
 You can jump on over to our online store and order now!  
 
 ## October  
-** Garage Sale **  
-
+**Garage Sale**  
 October 24th and 25th we will be having a garage sale! So many wonderful people have already 
 donated items, but we can always use more! So if you need to do a little fall cleaning and 
 get some stuff out of your house we would be happy to take it off your hands. Or if you are 
@@ -50,7 +49,6 @@ interested in stopping by to see what we have, just come on by. We will also be 
 of the larger items online so people know what we have.  
 
 **Pancake and waffle mix fund-raiser!**  
-
 Y’all these pancake mixes are so fun and yummy! Southern Culture is the name of these delicious 
 mixes and they are only $8 a mix. Each mix will make about 12 pancakes, they are Non-GMO, made 
 with Organic ingredients, and they even have Gluten Free options! We will be placing the final 
