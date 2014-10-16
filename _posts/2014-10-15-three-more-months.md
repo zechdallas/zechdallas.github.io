@@ -54,7 +54,7 @@ mixes and they are only $8 a mix. Each mix will make about 12 pancakes, they are
 with Organic ingredients, and they even have Gluten Free options! We will be placing the final 
 order on November 1st so hurry and get your order in!  
 
-**November**  
+## November  
 
 More Pancakes! Just a little different this time.  
 
