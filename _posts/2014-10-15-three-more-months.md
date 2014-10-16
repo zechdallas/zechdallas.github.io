@@ -33,7 +33,6 @@ Because we have so much more to raise and such little time to do it in we will b
 several more fund-raisers so that Baby Boy Dallas can come home soon!  
 
 ## T-Shirts! T-Shirts! T-Shirts!  
-
 We still have plenty of Adoption T-shirts to sell, so if you haven’t bought yours yet hurry 
 up and grab one! They are $20.00 pick-up and $23.00 Shipped. Several people have claimed 
 they feel like a hug when you put them on… I truly believe them!  
@@ -55,9 +54,7 @@ with Organic ingredients, and they even have Gluten Free options! We will be pla
 order on November 1st so hurry and get your order in!  
 
 ## November  
-
 More Pancakes! Just a little different this time.  
-
 We will be doing a pancake breakfast at Burning Bush Baptist Church some time in November, so 
 stay tuned for more details and ticket sales.
 
@@ -70,8 +67,3 @@ for taking the time to read our updates and for walking this journey with us. We
 < that’s you all ;)  
 
 Zech & Liz
-
-
-![Oh Boy...][boy]
-
-[boy]: https://scontent-a-atl.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10653434_10100577323820798_8420254204776693779_n.jpg?oh=5ac6cb2b31d8d2431baed74de995e7ba&oe=54CBF5BF "Oh Boy..."
