@@ -9,7 +9,7 @@ url: 				"http://www.hosea143.com"
 permalink:			:categories/:title
 
 # Pagination
-paginate:         	5
+paginate:         	10
 
 # Build settings
 markdown: 			kramdown
